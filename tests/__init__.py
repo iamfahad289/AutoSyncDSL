@@ -1,0 +1,4 @@
+"""
+Tests package init
+"""
+
